@@ -1,0 +1,44 @@
+.contact{
+    background-color: black;
+    color:white;
+}
+.contact h3{
+    color:yellow;
+    padding-top: 10px;
+}
+.fontphone{
+    margin-right: 5px;
+}
+.fontmail{
+    margin: 5px;
+    font-size: 25px;
+}
+form{
+    background-color: rgb(192, 71, 71);
+    
+}
+.input{
+    background-color: rgb(214, 205, 205);
+    border-radius: 20px;
+    border: 3px solid rgb(209, 28, 124);
+}
+.input:hover{
+    background-color: rgb(212, 201, 223);
+    border:3px solid rgb(209, 50, 50);
+
+    box-shadow: 5px 5px rgba(39, 39, 135,0.4);
+}
+.signbtn{
+    background-color: rgb(223, 37, 37);
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    box-shadow:2px 2px white;
+}
+.signbtn:hover{
+    background-color:rgb(223, 37, 37) ;
+    border:3px solid white;
+}
+Form h2{
+    text-shadow: 2px 2px pink;
+}
